@@ -4,11 +4,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&label=nhgia&link=https://github.com/nhgia)](https://github.com/nhgia)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&label=nhgia_&link=https://x.com/nhgia_)](https://x.com/nhgia_)
 
-#### I'm currently an iOS Developer based in Ho Chi Minh City, Viet Nam
+Currently an iOS Developer based in Ho Chi Minh City, Viet Nam
 
-Techstacks are included but not limited to:
+<!---Techstacks are included but not limited to:
 - 🐦‍🔥 Swift 5 & Swift 6 
 - 🍁 SwiftUI
 - 📱 UIKit
 
-Feel free to ✨reach me✨ for details 👯.
+Feel free to ✨reach me✨ for details 👯.--->
